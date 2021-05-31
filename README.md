@@ -4,6 +4,13 @@ My SFI presentation of 2021-06-01 about dinosaurs
 
 ## Dinosaurier
 
+Dinosaurier betyder fruktansvärt ('dino') reptil ('saurier'),
+för de var stor och många äter kött. 
+Den bästa exempel are Tyrannosaurus Rex.
+Här är Sue, hon var tretton meter lång och fyra meter högt:
+
+![https://en.wikipedia.org/wiki/File:SUE-T-REX-FMNH-PR-2081-By-JJxFile.jpg](SUE-T-REX-FMNH-PR-2081-By-JJxFile.jpg)
+
 Dinosaurier var djur, som levde i Mesozoikum.
 Dinosaurier var inte reptiler, det är bättre
 som säga dom är medlem från Archosauria,
@@ -13,6 +20,8 @@ en systerart von reptiler.
 
 Måsta dinosaurier dog ut sextiosex miljon år sedan,
 men utan den föräldar von fåglarna.
+Forskare tänker det dinosaurier dog ut
+för en jätteasteroid ramlade till jord.
 
 ![https://sv.wikipedia.org/wiki/Dinosaurier#/media/Fil:Dinosauria_definition.png](Dinosauria_definition.png)
 
@@ -30,4 +39,5 @@ och levde i vatten.
 Också den var inte en dinosaurier, men en reptil.
 
 ![https://sv.wikipedia.org/wiki/Elasmosaurus#/media/Fil:Elasmosaurus2.jpg](Elasmosaurus2.jpg)
+
 

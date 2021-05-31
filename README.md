@@ -45,3 +45,5 @@ Kanske det är inte rolikt det dinosaurier är inte här,
 för att dinosaurier är jättebra. Men när dinosaurier var
 bort, var tid riktikt för däggdjur ('Mammalia').
 Och däggdjur det är oss!
+
+![https://commons.wikimedia.org/wiki/File:Mammal_Diversity_2011.png](Mammal_Diversity_2011.png)

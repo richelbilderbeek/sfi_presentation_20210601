@@ -5,6 +5,8 @@ presentation of 2021-06-01 about dinosaurs.
 
 ## Dinosaurier
 
+![https://commons.wikimedia.org/wiki/File:Spinosauridae_family_genus_live_restoration.jpg](800px-Spinosauridae_family_genus_live_restoration.jpg)
+
 Dinosaurier betyder fruktansvärt ('dino') reptil ('saurier'),
 för de var stor och många äter kött. 
 Den bästa exempel are Tyrannosaurus Rex.

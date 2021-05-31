@@ -1,6 +1,7 @@
 # sfi_presentation_20210601
 
-My SFI presentation of 2021-06-01 about dinosaurs
+My 'Swedish For Internations' (SFI) 
+presentation of 2021-06-01 about dinosaurs.
 
 ## Dinosaurier
 
@@ -19,7 +20,7 @@ en systerart von reptiler.
 ![https://sv.wikipedia.org/wiki/Dinosaurier#/media/Fil:Paraphyletic.svg](640px-Paraphyletic.svg.png)
 
 Måsta dinosaurier dog ut sextiosex miljon år sedan,
-men utan den föräldar von fåglarna.
+men utan den föräldar von fåglarna och krokodiller.
 Forskare tänker det dinosaurier dog ut
 för en jätteasteroid ramlade till jord.
 
@@ -29,7 +30,7 @@ Alla dinosaurier var landdjur.
 Det är fel att tänker det dinosaurier
 flyggada (utan dina föräldar von fåglarna) 
 och simmade. Till exempel, pterosauria, 
-med bekännte medlem Pterodactylus var en reptil.
+med bekänntesta medlem Pterodactylus var en reptil.
 
 ![https://commons.wikimedia.org/wiki/File:Pteranodon_hharder.jpg](Pteranodon_hharder.jpg)
 
@@ -40,4 +41,7 @@ Också den var inte en dinosaurier, men en reptil.
 
 ![https://sv.wikipedia.org/wiki/Elasmosaurus#/media/Fil:Elasmosaurus2.jpg](Elasmosaurus2.jpg)
 
-
+Kanske det är inte rolikt det dinosaurier är inte här,
+för att dinosaurier är jättebra. Men när dinosaurier var
+bort, var tid riktikt för däggdjur ('Mammalia').
+Och däggdjur det är oss!

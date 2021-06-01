@@ -7,15 +7,16 @@ presentation of 2021-06-01 about dinosaurs.
 
 ![https://commons.wikimedia.org/wiki/File:Spinosauridae_family_genus_live_restoration.jpg](800px-Spinosauridae_family_genus_live_restoration.jpg)
 
-Dinosaurie betyder fruktansvärt ('dino') reptil ('saurier'),
-för de var stor och många äter kött. 
-Den bästa exempel are Tyrannosaurus Rex.
-Här är Sue, hon var tretton meter lång och fyra meter högt:
+Dinosaurie betyder fruktansvärt ('dino') reptil ('saurier').
+Det är rätt, för att dinosaurier var stor, hade många tänder 
+och många äter kött. 
+Den bästa exempel är Tyrannosaurus Rex.
+Här är Sue, hon var tretton meter lång och var fyra meter högt:
 
 ![https://en.wikipedia.org/wiki/File:SUE-T-REX-FMNH-PR-2081-By-JJxFile.jpg](SUE-T-REX-FMNH-PR-2081-By-JJxFile.jpg)
 
 Dinosaurier var djur, som levde i Mesozoikum.
-Dinosaurier var inte reptiler, det är bättre
+Dinosaurier var inte reptiler, det är bättre 
 som säga dom är medlem från Archosauria,
 en systerart von reptiler.
 

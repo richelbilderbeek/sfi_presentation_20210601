@@ -3,6 +3,9 @@
 My 'Swedish For Internations' (SFI) 
 presentation of 2021-06-01 about dinosaurs.
 
+ * Presentation [.odp](dinosaurier.odp) [.ppt](dinosaurier.ppt) [.pdf](dinosaurier.pdf)
+ * [YouTube](https://youtu.be/DCRC4iD9NFA) [Download (.ogv)](http://richelbilderbeek.nl/sfi_presentation_20210601.ogv)
+
 ## Dinosaurier
 
 ![https://commons.wikimedia.org/wiki/File:Spinosauridae_family_genus_live_restoration.jpg](800px-Spinosauridae_family_genus_live_restoration.jpg)

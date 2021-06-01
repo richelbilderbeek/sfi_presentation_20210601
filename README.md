@@ -17,13 +17,13 @@ Här är Sue, hon var tretton meter lång och var fyra meter högt:
 
 Dinosaurier var djur, som levde i Mesozoikum.
 Dinosaurier var inte reptiler, det är bättre 
-som säga dom är medlem från Archosauria,
+som säga dom är medlem från Archolosauria,
 en systerart von reptiler.
 
 ![https://sv.wikipedia.org/wiki/Dinosaurier#/media/Fil:Paraphyletic.svg](640px-Paraphyletic.svg.png)
 
-Måsta dinosaurier dog ut sextiosex miljon år sedan,
-men utan den föräldar von fåglarna och krokodiller.
+Måsta dinosaurier dog ut sextiosex miljon år sedan.
+Men det var utan den föräldar von fåglarna och krokodiller.
 Forskare tänker det dinosaurier dog ut
 för en jätteasteroid ramlade till jord.
 
@@ -32,21 +32,24 @@ för en jätteasteroid ramlade till jord.
 Alla dinosaurier var landdjur.
 Det är fel att tänker det dinosaurier
 flyggada (utan dina föräldar von fåglarna) 
-och simmade. Till exempel, pterosauria, 
-med bekänntesta medlem Pterodactylus var en reptil.
+och simmade. 
+Till exempel, pterosauria, 
+med bekänntesta medlem Pterodactylus var en reptil,
+så inte en dinosaurier!
 
 ![https://commons.wikimedia.org/wiki/File:Pteranodon_hharder.jpg](Pteranodon_hharder.jpg)
 
-Här visar jag en Elasmosaurus.
+Här se vi en Elasmosaurus.
 Hen var tretton meter lång
 och levde i vatten.
-Också den var inte en dinosaurier, men en reptil.
+Också den var inte en dinosaurier, 
+men en reptil också.
 
 ![https://sv.wikipedia.org/wiki/Elasmosaurus#/media/Fil:Elasmosaurus2.jpg](Elasmosaurus2.jpg)
 
 Kanske det är inte rolikt det dinosaurier är inte här,
 för att dinosaurier är jättebra. Men när dinosaurier var
 bort, var tid riktikt för däggdjur ('Mammalia').
-Och däggdjur det är oss!
+Och däggdjur, det är oss!
 
 ![https://commons.wikimedia.org/wiki/File:Mammal_Diversity_2011.png](Mammal_Diversity_2011.png)
